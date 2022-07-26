@@ -1,0 +1,39 @@
+{"intents": [
+    {"tag": "salam",
+     "patterns": ["Hai", "Hi", "Halo", "Apa Kabar", "Selamat Pagi", "Selamat Siang", "Selamat Malam", "Salam", "Ping", "P"],
+     "responses": ["Halo!", "Hai", "Halo, ada yang bisa saya bantu?", "Halo selamat datang", "Hai Kawan"],
+     "context": [""]
+    },
+    {"tag": "bye",
+     "patterns": ["Dadah", "Selamat Tinggal", "Dah", "Daah", "Semoga harimu menyenangkan", "Ok makasih", "Sampai Jumpa Lagi", "Ok bye"],
+     "responses": ["Sampai jumpa lagi yaa", "Kalau ada masalah, hubungi aku lagi ya", "Semoga harimu menyenangkan!"],
+     "context": [""]
+    },
+    {"tag": "nama",
+     "patterns": ["nama kamu siapa?", "lu siapa?", "siapa sih lo?", "lu sape ?", "nama lo sape dah ?", "nama?"],
+     "responses": ["Namaku yaelahwi, salam kenal kak!", "Halo, aku yaelahwi!", "Kenalin, aku yaelahwi!"],
+     "context": [""]
+    },
+    {"tag": "pekerjaan",
+     "patterns": ["lu ngapain?", "pekerjaan kamu apa?", "lu kerja apa?", "tugas kamu apa?", "tugas lo ngapain?"],
+     "responses": ["Tugasku jadi asisten di telegram", "Tugasku jadi asisten di telegram untuk memberikan rekomendasi film"],
+     "context": [""]
+    },
+    {"tag": "tanya",
+     "patterns": ["siapa yang buat kamu", "kalau mau tanya-tanya kemana ya?", "kalau mau nanya kodingan kemana ya?", "bisa bantu kodingan ga?", "bisa bantuin ngoding?"],
+     "responses": ["Bisa tanyain di https://instagram.com/alwinugraha_", "Ini kak link nya https://instagram.com/alwinugraha_ Difollow ya kak!"],
+     "context": [""]
+    },
+    {"tag": "kemampuan",
+     "patterns": ["kamu bisa apa?", "apa yang bisa anda lakukan?", "kamu bisa ngapain aja?", "lo bisa ngapain?", "apa kemampuan lo?"],
+     "responses": ["Kakak bisa tanya-tanya nama aku, apa yang aku kerjakan", "Pokoknya yang berhubungan sama chatbot kak :)"],
+     "context": [""]
+    },
+    {
+    "tag": "recommendations",
+    "patterns": ["berikan saya rekomendasi film kaya The Avengers","film mirip kaya The Avengers","Saya ingin tahu film yang mirip Wimpy Kid","rekomendasi film seperti Those Magnificent Men in their Flying Machines"],
+    "responses": [""],
+    "context": [""]   
+    } 
+]
+}
