@@ -1,2 +1,2 @@
 # chatbot_yaelahwi
- chatbot telegram
+ chatbot telegram @yaelahwi_bot
