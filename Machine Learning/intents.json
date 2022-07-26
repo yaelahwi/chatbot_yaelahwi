@@ -16,7 +16,7 @@
     },
     {"tag": "pekerjaan",
      "patterns": ["lu ngapain?", "pekerjaan kamu apa?", "lu kerja apa?", "tugas kamu apa?", "tugas lo ngapain?"],
-     "responses": ["Tugasku jadi asisten di telegram", "pekerjaan kamu apa?"],
+     "responses": ["Tugasku jadi asisten di telegram", "Tugasku jadi asisten di telegram untuk memberikan rekomendasi film"],
      "context": [""]
     },
     {"tag": "tanya",
