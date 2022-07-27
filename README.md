@@ -1,2 +1,2 @@
-# chatbot_yaelahwi
- chatbot telegram @yaelahwi_bot
+# Chatbot Movie Recommender
+ chatbot telegram
